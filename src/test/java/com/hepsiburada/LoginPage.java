@@ -1,6 +1,6 @@
-package org.example;
+package com.hepsiburada;
 
-import static org.example.Elements.*;
+import static com.hepsiburada.Elements.*;
 
 public class LoginPage extends Functions {
 

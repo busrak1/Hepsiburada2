@@ -1,4 +1,4 @@
-package org.example;
+package com.hepsiburada;
 
 
 import org.junit.jupiter.api.AfterEach;
